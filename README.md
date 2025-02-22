@@ -5,38 +5,45 @@ The Invoice Generator application is an innovative and easy-to-use tool for crea
 ## Login and Sign-Up
 Easily use the Invoice Generator app by logging in or signing up with your email and password. The login state is saved on your device, allowing you to access your account effortlessly every time. If you're new, you can quickly create a new account via the sign-up screen.
 ### SignUp
-![image](https://github.com/user-attachments/assets/a23401ed-6803-499c-bfd1-c3b56eb99d36)
+![Screenshot 2025-02-20 013028](https://github.com/user-attachments/assets/d7abc12c-12f3-4927-bf72-2fe6695fb2c9)
+
 ### Login
-![image](https://github.com/user-attachments/assets/7f8f977a-d032-44f1-ae5e-35498e53a264)
+![Screenshot 2025-02-20 013203](https://github.com/user-attachments/assets/ddf4eb35-610f-4b5f-9c72-6cb2d7e8db00)
+
 
 ## Create an Invoice with Ease
 No complications! All you need to do is enter some simple details, such as the client's name, email, and phone number. Then, specify the invoice details such as invoice number and due date. You can choose your preferred payment method from the available options (Cash, Bank Transfer, or Credit Card). Afterward, you can add purchased items with quantities and prices, and the app will automatically calculate the subtotal, taxes, and discounts! Finally, the total amount will be calculated accurately and swiftly.
 
-![image](https://github.com/user-attachments/assets/b8dc6d06-f7fa-4b40-ac85-7f6343a89833)
+![Screenshot 2025-02-20 013506](https://github.com/user-attachments/assets/4953bf43-aa09-4d30-877e-7f4b8e00b8b0)
 
-![Screenshot 2025-02-20 013902](https://github.com/user-attachments/assets/5ea0ff3c-58e8-4fd1-86ed-1e3db0418dd3)
 
-![image](https://github.com/user-attachments/assets/9efcb9ff-bc16-471f-9a30-cd955fe15096)
+![Screenshot 2025-02-20 013902](https://github.com/user-attachments/assets/92374397-0521-4987-8606-47d1e1003806)
+
+
+![Screenshot 2025-02-20 020111](https://github.com/user-attachments/assets/0f51936e-a75d-445a-b7cf-03d2e04c3a48)
+
 
 ## Save and Download the Invoice with One Click
 Once the invoice is created, you won’t have to worry about saving it! Our app saves the invoice on your device using local storage, ensuring you can access it easily at any time. Don't forget the option to download the invoice as a PDF to share it with your clients professionally.
 
-![image](https://github.com/user-attachments/assets/49354c28-be9f-41bf-bdee-284d8058ac3b)
+![Screenshot 2025-02-20 020438](https://github.com/user-attachments/assets/56903a21-d676-40e1-b22b-541fbe10ae38)
+
 
 ## Manage Invoices Flexibly
 Do you have multiple invoices? No problem! The app provides an easy interface to view all your invoices in one place. You can see details of each invoice clearly, such as the client’s name, invoice number, total amount, and payment status. If you need to find a specific invoice, you can search by number or name, or even apply filters by date or status (Paid/Unpaid). The process has never been easier and faster!
+![Screenshot 2025-02-20 021204](https://github.com/user-attachments/assets/e483a5a0-ae46-4fa2-9b26-1c93bb277d6e)
+![Screenshot 2025-02-20 021243](https://github.com/user-attachments/assets/627ffdbc-d74c-48b0-8fa7-133c1dbdb69d)
+![Screenshot 2025-02-20 021327](https://github.com/user-attachments/assets/fbd3af50-4ead-4f04-9145-befe3641156b)
+![image](https://github.com/user-attachments/assets/9c326403-9045-48e1-ab5d-fbf8ca8c2437)
+![image](https://github.com/user-attachments/assets/09717292-6f9e-481e-9686-fbec1d06c490)
+![image](https://github.com/user-attachments/assets/34937205-04c9-46ef-84ce-e062b4dd77a8)
 
-![image](https://github.com/user-attachments/assets/8e30430f-b7ee-4d2a-a974-87bee06eee9d)
-
-![image](https://github.com/user-attachments/assets/ba3bc293-77dd-4fe3-945e-290be6ff7cc8)
-![image](https://github.com/user-attachments/assets/0351f9e7-2042-465c-b360-9dc3ac325923)
-![image](https://github.com/user-attachments/assets/239322d0-4ee9-474d-a7e0-6c430ebc3850)
-![image](https://github.com/user-attachments/assets/e73c3c71-b94a-4f49-b718-9480cab005d5)
 
 ## Edit Invoices with Ease
 Need to edit an old invoice? No worries! You can modify invoice details such as items, prices, or even add new discounts. Once the edits are completed, the changes are saved immediately.
 
-![image](https://github.com/user-attachments/assets/f1921444-a0b6-44c2-bf3c-ebb095c6db93)
+![image](https://github.com/user-attachments/assets/487c4b32-45ca-447b-bee3-f26f8a83d2d3)
+
 
 ## Technologies Used
 React: For building a flexible and fast user interface.
