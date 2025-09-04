@@ -2,6 +2,11 @@
 Project Description
 The Invoice Generator application is an innovative and easy-to-use tool for creating and managing invoices. This app allows you to generate professional invoices for your clients, with the ability to add items and automatically calculate totals. It also allows you to customize invoices and save them locally on your device using Local Storage. With an easy-to-use interface, this app makes managing invoices faster and simpler than ever.
 
+## Awards 🏆
+
+![photo_2025-03-04_11-17-07](https://github.com/user-attachments/assets/2de214f2-2060-4249-a7e6-41bee2674414)
+
+
 ## Login and Sign-Up
 Easily use the Invoice Generator app by logging in or signing up with your email and password. The login state is saved on your device, allowing you to access your account effortlessly every time. If you're new, you can quickly create a new account via the sign-up screen.
 ### SignUp
